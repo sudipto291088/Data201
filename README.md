@@ -53,14 +53,14 @@ Detailed materials, labs, readings, and assignments for each week will live in *
 - Feature selection strategies  
 - Interpretability vs. model stability  
 
-📌 **Project 1 Due + Presentations**
+ **Project 1 Due + Presentations**
 
 📁 Materials: `week-05/`
 
 ---
 
 ### Week 6 — Mar 19  
-**Spring Break — No Class** 🌱
+**Spring Break — No Class** 
 
 ---
 
@@ -77,7 +77,7 @@ Detailed materials, labs, readings, and assignments for each week will live in *
 **Topics**
 - Classification (continued)  
 
-📌 **Project 1 Presentations**
+ **Project 1 Presentations**
 
 📁 Materials: `week-08/`
 
@@ -125,14 +125,14 @@ Detailed materials, labs, readings, and assignments for each week will live in *
 - Distance-based methods  
 - Clustering techniques  
 
-📌 **Project 2 Presentations**
+ **Project 2 Presentations**
 
 📁 Materials: `week-13/`
 
 ---
 
 ### Week 14 — May 14  
-**Final Project and Presentations** 🎓  
+**Final Project and Presentations** 
 (Final Exam Week)
 
 📁 Materials: `week-14/`
