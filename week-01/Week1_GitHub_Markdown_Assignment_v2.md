@@ -47,7 +47,7 @@ If you do **not** have a repository yet:
 
 1.  Click the **"+"** icon (top right).
 2.  Select **New repository**.
-3.  Name it: `Data110`
+3.  Name it: `Data201_YourName`
 4.  Set visibility to **Public**
 5.  Click **Create repository**
 
